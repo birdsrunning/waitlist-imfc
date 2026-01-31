@@ -37,7 +37,7 @@ export default function WaitlistPage() {
   const [submitted, setSubmitted] = useState(false);
 
   return (
-    <main className="relative min-h-screen flex items-center justify-center bg-[#231F20] px-4 overflow-hidden">
+    <main className="relative min-h-screen flex items-center justify-center bg-[#231F20] px-4 overflow-hidden p-2">
       {/* Subtle background gradient */}
       <div className="absolute inset-0 bg-gradient-to-b from-[#231F20]/60 via-[#231F20]/30 to-[#231F20]/80 z-0" />
 
