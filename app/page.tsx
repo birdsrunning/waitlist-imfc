@@ -170,7 +170,7 @@ export default function WaitlistPage() {
 
           <div className="flex items-center gap-4">
             <a
-              href="https://twitter.com/imageforcreatives"
+              href="https://x.com/image4creatives?s=20"
               target="_blank"
               rel="noopener noreferrer"
               className="
@@ -186,7 +186,7 @@ export default function WaitlistPage() {
             </a>
 
             <a
-              href="https://instagram.com/imageforcreatives"
+              href="https://www.instagram.com/image_for_creatives/"
               target="_blank"
               rel="noopener noreferrer"
               className="
